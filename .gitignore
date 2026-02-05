@@ -1,0 +1,44 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/resources/architecture_diagram.png
+!**/src/main/resources/intellispend_banner.png
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/resources/architecture_diagram.png
+
+### VS Code ###
+.vscode/
+
+### Operating System ###
+desktop.ini
+Thumbs.db
+.DS_Store
+
+### Others ###
+.env
+*.log
+*.pdf
+*.csv
+temp/
+tmp/
