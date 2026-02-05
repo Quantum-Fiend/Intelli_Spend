@@ -1,0 +1,11 @@
+# Force GitHub Linguist to detect Java
+*.java linguist-detectable=true
+src/main/java/**/* linguist-detectable=true
+src/test/java/**/* linguist-detectable=true
+
+# Mark documentation and scripts
+*.md linguist-documentation=true
+*.yml linguist-detectable=false
+*.xml linguist-detectable=false
+Dockerfile linguist-detectable=false
+.gitignore linguist-detectable=false
