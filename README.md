@@ -1,7 +1,7 @@
 # 💰 IntelliSpend — Next-Gen AI Financial Intelligence
 
 ![IntelliSpend Hero Banner](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3) 
-*(Note: Replace with generated hero image assets/intellispend_hero.png)*
+
 
 IntelliSpend is a high-performance, production-hardened financial tracking ecosystem. It leverages **LLM-powered reasoning** to categorize expenses and provide proactive financial advice, all within a strictly validated, secure Spring Boot environment.
 
