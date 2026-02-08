@@ -142,4 +142,4 @@ Interactive documentation is available out-of-the-box via Swagger:
 - [ ] Phase 10: Multi-tenant Support (Upcoming)
 
 ---
-© 2026 IntelliSpend Engineering. *Built for Financial Clarity.*run
+© 2026 IntelliSpend Engineering. *Built for Financial Clarity. By Tushar*
